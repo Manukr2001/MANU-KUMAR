@@ -6,3 +6,6 @@ Author - Manu Kumar
 mango is yellow
 <br>
 satyam is very good looking in our class
+<b>
+today is sunday
+
